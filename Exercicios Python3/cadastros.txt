@@ -1,0 +1,6 @@
+Gustavo;22;M
+Lavinia;11;F
+Luana;21;F
+Laodiceia;55;F
+Thurana;28;F
+Nicolas;28;M
